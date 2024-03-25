@@ -1,0 +1,5 @@
+:vs file name : mở thêm file nhưng chia đôi màn hình ra
+Ctrl + W + -> or <- để di chuyển contro giữa hai tab
+:Ctrl + W + shift H/J/L/K
+:buffers hiển thị các file đã mở bằng vim
+:e "file names": mở thêm file khi mình đang ở vim
